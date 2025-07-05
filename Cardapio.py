@@ -1,7 +1,8 @@
-print('Restaurante O Cretino')
+print('Restaurante Cambatella')
+print('teste')
 massas = ['Spaghetti', 'Raviolli', 'Tortelle', 'Pizza']
 frutos_do_mar = ['Lagosta', 'Camarão Frito', 'Marisco Cozido', 'Molusco No Vapor']
-guarnicoes = ['Arroz', 'Feijão', 'Molho À Campanha', 'Farofa', ]
+guarnicoes = ['Arroz', 'Feijão', 'Molho À Campanha', 'Farofa']
 comidas = 0
 precos = [59.90, 63.50, 66.50, 55.50, 190.60, 60.00, 81.20, 92.40, 15.00, 10.00, 7.00, 5.00]
 valor_unitario = 0
